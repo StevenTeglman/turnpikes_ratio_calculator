@@ -1,0 +1,24 @@
+﻿Field Name,Extracted,Blank,Validated,Priority
+InvoiceDate,60170,672,2618,1
+CompanyCode,57006,,6454,1
+InvoiceVendorNumber,56302,1561,5597,1
+InvoiceRecipientName,54105,6309,3046,1
+InvoiceCurrency,53300,1519,8641,2
+InvoiceNumber,51864,782,10814,1
+InvoiceTotalAmount,51284,309,11867,1
+InvoiceVendorName,48498,10084,4878,3
+InvoiceVatID,44896,13955,4609,3
+InvoiceNetAmount,43623,2030,17807,1
+InvoiceVatAmount,40860,15013,7587,1
+InvoiceVendorBankAccount,29198,33242,1020,1
+InvoiceRecipientVatID,27012,33998,2450,2
+InvoiceVendorBankNumber,23887,34689,4884,2
+InvoiceVendorIBAN,22021,40478,961,1
+InvoiceVendorBankName,9981,52969,510,1
+InvoicePaymentReference,4934,58524,2,4
+InvoiceCreditMemo,2182,61060,218,5
+ListDN,1160,62300,,5
+InvoiceFreightAmount,,63460,,4
+InvoiceHandlingCharges,,63460,,4
+InvoiceRequesterEmail,,63459,1,5
+ListPO,,47336,16124,1
